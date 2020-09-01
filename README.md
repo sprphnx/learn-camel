@@ -1,2 +1,2 @@
 # learn-camel
-My camel experiments
+Example of split in camel added.
